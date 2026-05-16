@@ -1,5 +1,7 @@
 # 将棋データ分析ポートフォリオ
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shogi-playstyle-analysis-6kapg4q6tbcks3qf5xldgw.streamlit.app)
+
 将棋棋士の棋譜データを機械学習で分析する2つのプロジェクト。
 
 ## ポートフォリオ一覧
