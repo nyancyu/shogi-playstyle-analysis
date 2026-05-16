@@ -1,0 +1,8 @@
+lightgbm
+optuna
+shap
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
